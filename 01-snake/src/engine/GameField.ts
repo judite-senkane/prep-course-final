@@ -11,7 +11,8 @@ export class GameField {
       new Cell(18, 16),
       new Cell(20, 16),
       new Cell(22, 16),
-      new Cell(24, 16)
+      new Cell(24, 16),
+      new Cell(26, 16)
     ];
   }
 
